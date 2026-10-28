@@ -1,0 +1,10 @@
+{
+  "name": "checkpointz-shopping-cart",
+  "version": "1.0.0",
+  "description": "A refactored shopping cart system demonstrating clean code and design patterns.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/index.js"
+  }
+}
